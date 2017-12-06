@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Episode7/.idea/Episode7.iml" filepath="$PROJECT_DIR$/../Episode7/.idea/Episode7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tabulatorum-Quaerere/.idea/MilionSearch.iml" filepath="$PROJECT_DIR$/../Tabulatorum-Quaerere/.idea/MilionSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/algoritm.iml" filepath="$PROJECT_DIR$/.idea/algoritm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ruby-ant-colony/.idea/ruby-ant-colony.iml" filepath="$PROJECT_DIR$/../ruby-ant-colony/.idea/ruby-ant-colony.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tabualgoritm/.idea/tabualgoritm.iml" filepath="$PROJECT_DIR$/../tabualgoritm/.idea/tabualgoritm.iml" />
+    </modules>
+  </component>
+</project>

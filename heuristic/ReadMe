@@ -1,0 +1,22 @@
+#                   ADIMLAR
+#
+# Parametreleri belirle
+# Rastgele başlangıç çözümü üret S
+# Komşu bir çözüm üret S'
+# İki çözüm arasındaki maliyeti hesapla delta=C(S')-C(S)
+#    S', S den daha iyi ise yani delta<0 ise
+#    S', S den kötü ama e^-delta/T > R tanımlı ise
+#    S çözümünü S' ile yer değiştir.
+# Bir soğutma çizelgesi yardımı ile sıcaklığı güncelle
+# Dış döngü sağlanıyorsa aramayı durdur.
+
+# PROBLEM
+# Fonksiyon           =  f(x) = ((2*PI*r**3)/3)+2*PI*r**2
+# Maliyet Fonksiyonu  =  f(x) = ((2*PI*r**3)/3)+2*PI*r**2
+# T>0
+# İç ve Dış Döngü               = 3 & 500
+# Başlangıç Sıcaklığı (TEMP)    =  0.3
+# Bitiş Sıcaklığı     (Cooling) =  0.01
+# Lundy & Mees Formul           => Ti+1= Ti/(1+beta.Ti), beta<=T0 || t = t/(1 + βt)
+# Tk+1= Tk/(1+beta*Tk)
+# beta = (Tbas-Tbit)/(M*Tb*Tb) TbaslamaSık, Tbitis Sıcaklığı M iterasyon sayısı

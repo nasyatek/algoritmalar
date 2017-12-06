@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ffa3c2c-b50d-465a-98a6-2c80058e5f34" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/algoritm@ClassParametre.coverage" NAME="ClassParametre Coverage Results" MODIFIED="1508694660804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../aruby" MODULE_NAME="aruby" />
+    <SUITE FILE_PATH="coverage/algoritm@classmath.coverage" NAME="classmath Coverage Results" MODIFIED="1508694503170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../legend_of_ruby/arsiv" MODULE_NAME="legend_of_ruby" />
+    <SUITE FILE_PATH="coverage/algoritm@benzetimli_tavlamaold1.coverage" NAME="benzetimli_tavlamaold1 Coverage Results" MODIFIED="1508483898897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heuristic/old" MODULE_NAME="algoritm" />
+    <SUITE FILE_PATH="coverage/algoritm@proje.coverage" NAME="proje Coverage Results" MODIFIED="1508694557638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../legend_of_ruby/rasp-sensor-projesi" MODULE_NAME="legend_of_ruby" />
+    <SUITE FILE_PATH="coverage/algoritm@ClassAdem.coverage" NAME="ClassAdem Coverage Results" MODIFIED="1508694630689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../aruby" MODULE_NAME="aruby" />
+    <SUITE FILE_PATH="coverage/algoritm@All_tests_in_Tabulatorum_Quaerere__MilionSearch.coverage" NAME="All tests in Tabulatorum-Quaerere: MilionSearch Coverage Results" MODIFIED="1511777103227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Tabulatorum-Quaerere" MODULE_NAME="MilionSearch" />
+    <SUITE FILE_PATH="coverage/algoritm@simu_aneling.coverage" NAME="simu_aneling Coverage Results" MODIFIED="1511796150394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../tabualgoritm" MODULE_NAME="tabualgoritm" />
+    <SUITE FILE_PATH="coverage/algoritm@test.coverage" NAME="test Coverage Results" MODIFIED="1508694531583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../legend_of_ruby/arsiv" MODULE_NAME="legend_of_ruby" />
+    <SUITE FILE_PATH="coverage/algoritm@ben_tav_helper.coverage" NAME="ben_tav_helper Coverage Results" MODIFIED="1508703982953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heuristic" MODULE_NAME="algoritm" />
+    <SUITE FILE_PATH="coverage/algoritm@ben_as.coverage" NAME="ben_as Coverage Results" MODIFIED="1508915352012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heuristic" MODULE_NAME="algoritm" />
+    <SUITE FILE_PATH="coverage/algoritm@tabu.coverage" NAME="tabu Coverage Results" MODIFIED="1511790560729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../tabualgoritm" MODULE_NAME="tabualgoritm" />
+    <SUITE FILE_PATH="coverage/algoritm@benzetimli_tavlama.coverage" NAME="benzetimli_tavlama Coverage Results" MODIFIED="1511779096459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heuristic" MODULE_NAME="algoritm" />
+    <SUITE FILE_PATH="coverage/algoritm@basamak.coverage" NAME="basamak Coverage Results" MODIFIED="1508694494696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../legend_of_ruby/arsiv" MODULE_NAME="legend_of_ruby" />
+    <SUITE FILE_PATH="coverage/algoritm@main.coverage" NAME="main Coverage Results" MODIFIED="1511787478021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ruby-ant-colony" MODULE_NAME="ruby-ant-colony" />
+    <SUITE FILE_PATH="coverage/algoritm@running.coverage" NAME="running Coverage Results" MODIFIED="1511787490359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ruby-ant-colony" MODULE_NAME="ruby-ant-colony" />
+    <SUITE FILE_PATH="coverage/algoritma@main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1512583792774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="algoritm" />
+    <SUITE FILE_PATH="coverage/algoritm@gunluk.coverage" NAME="gunluk Coverage Results" MODIFIED="1508694507608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../legend_of_ruby/arsiv" MODULE_NAME="legend_of_ruby" />
+    <SUITE FILE_PATH="coverage/algoritm@mail_maker.coverage" NAME="mail_maker Coverage Results" MODIFIED="1508694553428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../legend_of_ruby/rasp-sensor-projesi" MODULE_NAME="legend_of_ruby" />
+    <SUITE FILE_PATH="coverage/algoritm@ben_tav_const.coverage" NAME="ben_tav_helper Coverage Results" MODIFIED="1508486512678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/heuristic" MODULE_NAME="algoritm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>8.</find>
+      <find>8.377</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/heuristic/hill_climb.rb" />
+        <option value="$PROJECT_DIR$/heuristic/sim_anel.rb" />
+        <option value="$PROJECT_DIR$/heuristic/ben_tav_const.rb" />
+        <option value="$PROJECT_DIR$/heuristic/old/benzetimli_tavlamaold1.rb" />
+        <option value="$PROJECT_DIR$/heuristic/ben_tav_conf.rb" />
+        <option value="$PROJECT_DIR$/heuristic/old/hill_climb.rb" />
+        <option value="$PROJECT_DIR$/../aruby/MyRuby/RAccessModifiers.rb" />
+        <option value="$PROJECT_DIR$/../aruby/Ahmetim.rb" />
+        <option value="$PROJECT_DIR$/heuristic/ben_as.rb" />
+        <option value="$PROJECT_DIR$/heuristic/ben_tav_helper.rb" />
+        <option value="$PROJECT_DIR$/heuristic/benzetimli_tavlama.rb" />
+        <option value="$PROJECT_DIR$/../tabualgoritm/simu_aneling.rb" />
+        <option value="$PROJECT_DIR$/../tabualgoritm/tabu.rb" />
+        <option value="$PROJECT_DIR$/heuristic/old/sim_anel.rb" />
+        <option value="$PROJECT_DIR$/heuristic/ReadMe" />
+        <option value="$PROJECT_DIR$/main.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="48" />
+    <option name="y" value="-11" />
+    <option name="width" value="1873" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algoritma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algoritma" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.settings.patched" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/heuristic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../aruby/legend_of_ruby" />
+      <recent name="$PROJECT_DIR$/heuristic/old" />
+      <recent name="$PROJECT_DIR$/heuristic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Ruby.main (1)">
+    <configuration name="main (1)" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="algoritm" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/main.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="main" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby-ant-colony" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/main.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="running" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ruby-ant-colony" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/running.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="simu_aneling" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="tabualgoritm" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/simu_aneling.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="tabu" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="tabualgoritm" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/tabu.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Ruby.tabu" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.main" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.running" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.simu_aneling" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.main (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Ruby.main (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.simu_aneling" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.tabu" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.running" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ffa3c2c-b50d-465a-98a6-2c80058e5f34" name="Default" comment="" />
+      <created>1508395964143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508395964143</updated>
+      <workItem from="1508395965361" duration="11000" />
+      <workItem from="1508396171217" duration="2085000" />
+      <workItem from="1508398786995" duration="9527000" />
+      <workItem from="1508436728839" duration="1828000" />
+      <workItem from="1508442738355" duration="875000" />
+      <workItem from="1508475235066" duration="9902000" />
+      <workItem from="1508511359433" duration="3855000" />
+      <workItem from="1508567163727" duration="10388000" />
+      <workItem from="1508694419023" duration="405000" />
+      <workItem from="1508696409703" duration="128000" />
+      <workItem from="1508697025993" duration="78000" />
+      <workItem from="1508697202229" duration="166000" />
+      <workItem from="1508697382779" duration="5199000" />
+      <workItem from="1508703645696" duration="421000" />
+      <workItem from="1508738564918" duration="438000" />
+      <workItem from="1508914219677" duration="2070000" />
+      <workItem from="1511723380716" duration="1221000" />
+      <workItem from="1511763073928" duration="1734000" />
+      <workItem from="1511776989065" duration="157000" />
+      <workItem from="1511778937425" duration="1941000" />
+      <workItem from="1511785039683" duration="129000" />
+      <workItem from="1511786041150" duration="3633000" />
+      <workItem from="1511795380958" duration="270000" />
+      <workItem from="1511795684450" duration="96000" />
+      <workItem from="1511795818611" duration="509000" />
+      <workItem from="1512422196339" duration="40000" />
+      <workItem from="1512422264846" duration="64000" />
+      <workItem from="1512422342786" duration="207000" />
+      <workItem from="1512583208412" duration="341000" />
+      <workItem from="1512583564861" duration="3000" />
+      <workItem from="1512583589457" duration="248000" />
+    </task>
+    <task id="LOCAL-00001" summary="refactoring">
+      <created>1508483554216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1508483554217</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refactoring">
+      <created>1508694779732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1508694779732</updated>
+    </task>
+    <task id="LOCAL-00003" summary="refactoring">
+      <created>1508696457791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508696457793</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactoring">
+      <created>1508696498770</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1508696498770</updated>
+    </task>
+    <task id="LOCAL-00005" summary="refactoring">
+      <created>1508698913319</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1508698913320</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactoring">
+      <created>1508704049109</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1508704049109</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactoring">
+      <created>1512583822716</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1512583822716</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_tests_in_Tabulatorum-Quaerere__MilionSearch - 2017.11.27 at 13h 05m 03s.xml">
+      <configuration name="All tests in Tabulatorum-Quaerere: MilionSearch" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57969000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="48" y="-11" width="1319" height="780" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16704632" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40143886" sideWeight="0.50569475" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31798562" sideWeight="0.49430525" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286991" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286991" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../aruby" />
+      <path value="$PROJECT_DIR$/../Episode7" />
+      <path value="$PROJECT_DIR$/../Tabulatorum-Quaerere" />
+      <path value="$PROJECT_DIR$/../ruby-ant-colony" />
+    </ignored-roots>
+    <MESSAGE value="refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../aruby/Denemeler.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/MyRuby/RAccessModifiers.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/legend_of_ruby/arsiv/math.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/legend_of_ruby/arsiv/test.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/legend_of_ruby/arsiv/Mercur.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/legend_of_ruby/arsiv/gunluk.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/legend_of_ruby/arsiv/sifre.txt" />
+    <entry file="file://$PROJECT_DIR$/../aruby/legend_of_ruby/arsiv/basamak.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/legend_of_ruby/arsiv/classmath.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/legend_of_ruby/arsiv/string_cutter.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/legend_of_ruby/rasp-sensor-projesi/proje.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/legend_of_ruby/rasp-sensor-projesi/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/../aruby/legend_of_ruby/rasp-sensor-projesi/mail_maker.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/Ahmetim.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/RubyLoops.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/RubyArrays.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/RubyNameSpace.rb" />
+    <entry file="file://$PROJECT_DIR$/../aruby/RubyMix.rb" />
+    <entry file="file://$PROJECT_DIR$/heuristic/ben_as.rb" />
+    <entry file="file://$PROJECT_DIR$/../Tabulatorum-Quaerere/app/controllers/application_controller.rb" />
+    <entry file="file://$PROJECT_DIR$/../Tabulatorum-Quaerere/app/controllers/stories_controller.rb" />
+    <entry file="file://$PROJECT_DIR$/../Tabulatorum-Quaerere/app/models/story.rb" />
+    <entry file="file://$PROJECT_DIR$/../Tabulatorum-Quaerere/app/helpers/stories_helper.rb" />
+    <entry file="file://$PROJECT_DIR$/../Episode7/lib/map.rb" />
+    <entry file="file://$PROJECT_DIR$/../Episode7/lib/place.rb" />
+    <entry file="file://$PROJECT_DIR$/../Episode7/lib/sales_person.rb" />
+    <entry file="file://$PROJECT_DIR$/../Episode7/salesperson.rb" />
+    <entry file="file://$PROJECT_DIR$/../Episode7/lib/calculates_route.rb" />
+    <entry file="file://$PROJECT_DIR$/../ruby-ant-colony/running.rb" />
+    <entry file="file://$PROJECT_DIR$/../ruby-ant-colony/problems/aco_tsp.rb" />
+    <entry file="file://$PROJECT_DIR$/../ruby-ant-colony/problems/aco_shortest_path.rb" />
+    <entry file="file://$PROJECT_DIR$/../ruby-ant-colony/util/graph.rb" />
+    <entry file="file://$PROJECT_DIR$/../ruby-ant-colony/util/file_tsp_reader.rb" />
+    <entry file="file://$PROJECT_DIR$/../ruby-ant-colony/aco/ant_enviroment.rb" />
+    <entry file="file://$PROJECT_DIR$/../ruby-ant-colony/aco/aco.rb" />
+    <entry file="file://$PROJECT_DIR$/../ruby-ant-colony/benchmarks/tsplib/berlin52.opt.tour" />
+    <entry file="file://$PROJECT_DIR$/../ruby-ant-colony/benchmarks/tsplib/berlin52.tsp" />
+    <entry file="file://$PROJECT_DIR$/../ruby-ant-colony/benchmarks/tsplib/att48.tsp" />
+    <entry file="file://$PROJECT_DIR$/../ruby-ant-colony/benchmarks/tsplib/a280.opt.tour" />
+    <entry file="file://$PROJECT_DIR$/../ruby-ant-colony/main.rb" />
+    <entry file="file://$PROJECT_DIR$/../tabualgoritm/tabu.rb" />
+    <entry file="file://$PROJECT_DIR$/../tabualgoritm/simu_aneling.rb" />
+    <entry file="file://$PROJECT_DIR$/heuristic/ben_tav_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heuristic/old/hill_climb.rb" />
+    <entry file="file://$PROJECT_DIR$/heuristic/old/benzetimli_tavlamaold1.rb" />
+    <entry file="file://$PROJECT_DIR$/heuristic/old/sim_anel.rb" />
+    <entry file="file://$PROJECT_DIR$/heuristic/benzetimli_tavlama.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="41" lean-forward="false" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heuristic/ReadMe">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_algos/binary_search.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_algos/lineer_search.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
